@@ -1,10 +1,10 @@
 {
-  "version": "1.13.2",
-  "pub_date": "2026-06-25T19:01:04Z",
+  "version": "1.13.3",
+  "pub_date": "2026-06-30T18:02:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScXh3WjVlQlpkSTNQcUYzQ3VNY0pSVnJjdll1K0h5VUR5TDQ5SEtwMGhaNUlRdjJ5T3ZIWXFPQkQ2VW5DN2V5STNPcDBQYlB1dk1uWlB2Y1UyNXcxN3VzcnZUVlBlWHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDE0MDUyCWZpbGU6V2lzZURhcnRzXzEuMTMuMl94NjQtc2V0dXAuZXhlCmJQcEFMTzE3Z1FqNVRpd2ZMN1phM1c4NitqMzc2RndkR0p6aUFEZ1FBUXROTmtMT2FNMDRXckJPSDJhUGV0Z21XQTBRNm5qTGhEdjQ5bjNWYzdHRUFRPT0K",
-      "url": "https://api.github.com/repos/hruttas/WiseDarts-releases/releases/assets/457909113"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScXh3WjVlQlpkSXpMRkl0K0EreVBxa2EzaXlFZ0lKMjlycFBIVGdzeVBBVUhJMUt2UlhXSEoyVEZrZSswczdtTjRpZWZkQ0RUb3diZXdnY1NxZ2RodzQ3L2tkU1RoMVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODQyNTQ0CWZpbGU6V2lzZURhcnRzXzEuMTMuM194NjQtc2V0dXAuZXhlCmx4dmRHZUdKeVh4N2hzckt4MmFXSU5ydmNhcUtObU9DS2kyRVNqM0ROM2hRbGFIZWVnVXdTclVjZXJBR1FOcEVyK3R0eEhUVHUwRGNydDdybHcrSUFnPT0K",
+      "url": "https://api.github.com/repos/hruttas/WiseDarts-releases/releases/assets/462394311"
     }
   }
 }
