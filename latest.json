@@ -1,10 +1,10 @@
 {
-  "version": "1.14.101",
-  "pub_date": "2026-08-22T08:51:50Z",
+  "version": "1.14.102",
+  "pub_date": "2026-08-22T12:20:37Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScXh3WjVlQlpkSTFjTWtyZmJjZXZFSFZXTU9xWjZJNWpOSkVTYXdtWW5kby82V0ZxSTVKQ2lDeDBIaUJROUNMVVhIK0tYUUl3YXkzK3pwc2FCY1F6czZrRGtLTkx0Y2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Mzg4Njk4CWZpbGU6V2lzZURhcnRzXzEuMTQuMTAxX3g2NC1zZXR1cC5leGUKRGRFL3hXcHZjNk9mTEhheERRZml0ajVXdWJsZExFWXNRYnFKNkxwejVaWlhVdTlYTUIwYS9DNHlaSkF6a29ZZjhrNnRHYmtlb203TitGQ1B3OE1kQlE9PQo=",
-      "url": "https://github.com/hruttas/WiseDarts-releases/releases/download/v1.14.101/WiseDarts_1.14.101_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScXh3WjVlQlpkSTJYdGJ0Q3JtT3hXQVNpZks3c2MxYytxQ2doRmlNZTljcElIVmVwUk5uQytCR21MRWlNdjFha3hBYmpkRjdiSVAyRVp5WUFSajZDaDNDRzlUd25LQkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDAxMjE3CWZpbGU6V2lzZURhcnRzXzEuMTQuMTAyX3g2NC1zZXR1cC5leGUKditWL3c4YXBJOWRQN21SazdxV2pGSUE4YTRnMERjbXhrUzEzcDV0UTZGUXROMml0UnROSnkrYU1rNHBSdHhtUHNwdlJxRXA5ZlNBYXJ5L0o2SjJxRFE9PQo=",
+      "url": "https://github.com/hruttas/WiseDarts-releases/releases/download/v1.14.102/WiseDarts_1.14.102_x64-setup.exe"
     }
   }
 }
